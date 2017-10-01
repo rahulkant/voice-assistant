@@ -23,7 +23,7 @@
 It is a tool that provides a platform to execute and control some basic tasks on the Linux platform, entirely through voice input.
 
 Source code used in the software can be 
-obtained with this URL:<https://gitlab.com/prateek_vij/team12cs243>
+obtained with this URL: <https://github.com/rahulkant/voice-assistant>
 
 ## II. Requirements
 These following requirements need to be fulfilled if you want to use this package the package
